@@ -7,7 +7,12 @@ Smooth error handling while scrolling if any error occurs user can retry from th
 
 ## App Features 
 * __Smooth Endless Scrolling__
+
+
 https://user-images.githubusercontent.com/7686968/170009449-323f999f-938c-4925-b045-eafbc46625d8.mp4
+
+
+
 * __Refresh Image While Error Occur__
 https://user-images.githubusercontent.com/7686968/170008663-a8a6aa24-1f7a-4f70-b598-d93d052beb14.mp4
 * __Pull To Refresh__
