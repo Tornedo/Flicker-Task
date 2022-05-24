@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/7686968/170008663-a8a6aa24-1f7a-4f70-b
 * __Android Studio__
 * __Gradle__
 * __Kotlin version__
-* __Android Device with USB Debugging Enabled__
+* __Android Device or Emulator__
 
 
 ## Languages, libraries and tools used
