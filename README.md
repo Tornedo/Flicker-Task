@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/7686968/170008663-a8a6aa24-1f7a-4f70-b
 * __Flicker API Key__
 * __Android Studio__
 * __Gradle__
-* __Kotlin version__
+* __Kotlin__
 * __Android Device or Emulator__
 
 
